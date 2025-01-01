@@ -1,0 +1,22 @@
+Section A:
+
+push(object o):
+	doesn't maintain the invariant.
+	o can be a null object, and then the top() will return null.
+	solution:
+		add @pre o != null
+
+pop():
+	the implementation match the contract and maintain the invariant.
+
+top():
+	the @return is not exact.
+	it's true that != null will be returned,
+	but the more accurate return will be:
+		@return last object that was added to the list.
+
+isEmpty():
+	the @return is incorrect.
+	if the list is empty the function will return true.
+	solution:
+		change @post @return == true iff elements.size() == 0.
