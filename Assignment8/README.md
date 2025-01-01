@@ -1,6 +1,13 @@
-# hw8
+# Assignment 8
 
-Git submission instructions:
-1. Fill in your TAU username and ID in the details.txt file.
-2. Make sure you commit and push all your code.
-3. Submit the link to your git repository via Moodle as assignment.txt
+## Description
+The assignment involves implementing generic collections and utilizing the Java Collection Framework to create a histogram data structure and analyze text files.
+
+## Output
+The programs produce various outputs based on the tasks they perform:
+1. Histogram Data Structure:
+    - Implements a histogram using generic collections to count occurrences of items.
+    - Provides methods to add, remove, and query items in the histogram.
+2. Text File Analysis:
+    - Reads and indexes text files to identify significant words and calculate their term frequency-inverse document frequency (tf-idf) scores.
+    - Compares text files based on their lexical similarity using cosine similarity.
