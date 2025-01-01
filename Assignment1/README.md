@@ -1,4 +1,4 @@
-# HW1
+# Assignment 1
 
 ## Description
 The assignment involves implementing a Java program that processes a character and an integer input to produce a new character based on the given offset.
