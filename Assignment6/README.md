@@ -1,6 +1,11 @@
-# hw6
+# Assignment 6
 
-Git submission instructions:
-1. Fill in your TAU username and ID in the details.txt file.
-2. Make sure you commit and push all your code.
-3. Submit the link to your git repository via Moodle as assignment.txt
+## Description
+The assignment involves implementing various Java programs to solve different problems, including polynomial operations and riddle-solving.
+
+## Output
+The programs produce various outputs based on the tasks they perform:
+1. Polynomial Operations:
+    - Implement polynomial addition, subtraction, multiplication, and evaluation.
+2. Riddle Solving:
+    - Solve riddles by implementing specific methods in the provided classes.
