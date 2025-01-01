@@ -1,7 +1,12 @@
-# hw1
+# HW1
 
-Git submission instructions:
-1. Fill in your TAU username and ID in the details.txt file.
-2. Make sure you commit and push all your code.
-3. Submit the link to your git repository via Moodle as assignment.txt
+## Description
+The assignment involves implementing a Java program that processes a character and an integer input to produce a new character based on the given offset.
+
+## Output
+The program takes two inputs: a character (chr) and an integer (offset). It outputs a new character that is offset positions away from chr in the English alphabet. The output is displayed in the format:
+```java
+New char is <new_character>.
+```
+
 
